@@ -7,7 +7,7 @@ Tool for using my favourite pro feature on [Http Toolkit](https://httptoolkit.co
 Uploaded and working (20/06/25)
 
 #### How this works
-Correct splitting of URL and HEADERS, which are written into a new file using the numpy module.
+Correct splitting of URL and HEADERS, which are written into a new file using the numpy module. Select the request as seen in the screenshot :)
 
 #
 
